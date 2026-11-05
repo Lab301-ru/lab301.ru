@@ -156,7 +156,7 @@
               <span>${t.fPowered}</span>
               <img src="image-151.avif" alt="Mikhalych AI" class="f-powered-img" width="1768" height="363" loading="lazy" decoding="async" />
             </div>
-            <div class="f-stack">Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS &middot; Node.js &middot; PostgreSQL &middot; Prisma &middot; Auth.js &middot; ЮKassa &middot; Тинькофф &middot; Elasticsearch &middot; Meilisearch &middot; 1С &middot; n8n &middot; Telegram Bot API &middot; Claude API &middot; YandexGPT &middot; GigaChat &middot; Timeweb Cloud &middot; Docker &middot; GitHub Actions &middot; Cloudflare &middot; Sentry &middot; Playwright &middot; Vitest</div>
+            <div class="f-stack">Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS &middot; Node.js &middot; PostgreSQL &middot; Prisma &middot; Auth.js &middot; ЮKassa &middot; Тинькофф &middot; Elasticsearch &middot; Meilisearch &middot; 1С &middot; n8n &middot; Telegram Bot API &middot; Claude API &middot; YandexGPT &middot; GigaChat &middot; Timeweb Cloud &middot; Docker &middot; GitHub Actions &middot; Cloudflare &middot; Sentry &middot; Playwright &middot; Vitest &middot; Figma &middot; Blender &middot; Higgsfield &middot; Cursor &middot; VS&nbsp;Code &middot; Codex &middot; Manus</div>
           </div>
           <div class="f-col">
             <h2 class="f-h">${t.fNav}</h2>
